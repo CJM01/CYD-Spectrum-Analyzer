@@ -1,7 +1,7 @@
 # CYD Spectrum Analyzer
 
 - Made with Claude AI
-A real-time audio spectrum analyzer optimized for **guitar frequencies (80 Hz – 5 kHz)**, running on the **Hosyond 4" ESP32-3248S040 CYD** with an **INMP441 I2S microphone**. Displays a live bar graph with a dark purple → yellow gradient on the built-in ST7796 TFT display.
+- A real-time audio spectrum analyzer optimized for **guitar frequencies (80 Hz – 5 kHz)**, running on the **Hosyond 4" ESP32-3248S040 CYD** with an **INMP441 I2S microphone**. Displays a live bar graph with a dark purple → yellow gradient on the built-in ST7796 TFT display.
 
 ![Spectrum Analyzer](docs/screenshot_placeholder.png)
 
