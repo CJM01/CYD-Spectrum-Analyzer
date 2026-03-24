@@ -93,7 +93,7 @@ You **must** configure TFT_eSPI for this board before compiling. Replace the con
 ## Project Structure
 
 ```
-esp32-guitar-spectrum/
+CYD-Spectrum_Analyzer/
 │
 ├── AudioSpectrumAnalyzer/
 │   └── AudioSpectrumAnalyzer.ino   ← Main sketch
@@ -128,7 +128,7 @@ All tuning is done via `#define` constants near the top of the sketch:
 | Define | Default | Effect |
 |---|---|---|
 | `SAMPLE_RATE` | `10000` | Raise to `20000` for 10 kHz range |
-| `DB_FLOOR` | `40.0` | Noise floor — raise if bars dance in silence |
+| `DB_FLOOR` | `50.0` | Noise floor — raise if bars dance in silence |
 | `DB_SCALE` | `80.0` | Dynamic range — lower if bars never reach the top |
 | `FALL_SPEED` | `4` | Pixels dropped per frame; higher = snappier |
 | `PEAK_HOLD_FRAMES` | `25` | How long peak dots linger |
