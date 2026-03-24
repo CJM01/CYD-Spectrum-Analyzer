@@ -24,7 +24,7 @@
 
 | Component | Part |
 |---|---|
-| Microcontroller | Hosyond 4" ESP32-3248S040 CYD |
+| Microcontroller | [Hosyond 4" ESP32-3248S040 CYD](https://www.lcdwiki.com/4.0inch_ESP32-32E_Display) |
 | Display | ST7796 480×320 TFT (built-in) |
 | Microphone | INMP441 I2S MEMS microphone |
 
