@@ -99,10 +99,8 @@ CYD-Spectrum_Analyzer/
 │   └── AudioSpectrumAnalyzer.ino   ← Main sketch
 │
 ├── tools/
-│   ├── INMP441_MicTest/
-│   │   └── INMP441_MicTest.ino     ← Mic health diagnostic
-│   └── INMP441_ShiftCal/
-│       └── INMP441_ShiftCal.ino    ← Bit-shift calibration tool
+│   └── INMP441_MicTest.ino     ← Mic health diagnostic
+│   └── INMP441_ShiftCal.ino    ← Bit-shift calibration tool
 │
 └── docs/
     └── TROUBLESHOOTING.md
