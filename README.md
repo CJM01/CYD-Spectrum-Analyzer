@@ -16,6 +16,7 @@
 - Temporal bar smoothing for a fluid, non-spiky display
 - Serial debug output showing dominant frequency and dB once per second
 - Two diagnostic tools included for mic troubleshooting
+- Originally made to monitor guitar sounds
 
 ---
 
